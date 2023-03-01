@@ -1,2 +1,2 @@
 # College
-A portfolio showcasing all the coding projects I created during undergraduate.
+A portfolio showcasing some of the coding projects I created during undergraduate.
